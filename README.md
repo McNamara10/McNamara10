@@ -15,7 +15,7 @@ Macerata, Italy | Master's in Data Engineering
 
 ## About Me
 
-Data Engineer with expertise in building scalable data pipelines and real-time processing systems. Strong foundation in full-stack development with 5+ years of backend experience (PHP, Yii2, Laravel) and deep knowledge of SQL and relational database design, now specialized in modern data infrastructure and distributed systems.
+Data Engineer with expertise in building scalable data pipelines and real-time processing systems. Strong foundation in full-stack development with 10+ years of backend experience (PHP, Yii2, Laravel) and deep knowledge of SQL and relational database design, now specialized in modern data infrastructure and distributed systems.
 
 Currently completing Master's degree in Data Engineering with focus on real-time analytics, cloud-native architectures, and machine learning integration. I combine software engineering best practices with cutting-edge data technologies to deliver production-ready, enterprise-scale solutions.
 
